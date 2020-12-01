@@ -14,7 +14,7 @@ A Node.js client for the [NATS messaging system](https://nats.io).
 ** :warning: NATS.js v2 beta is a preview** you can get the current development version by:
 
 ```bash
-npm install nats@beta'
+npm install nats@beta
 ```
 
 The nats.js v2 client is not API compatible with previous versions of nats.js.
